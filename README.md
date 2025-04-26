@@ -1,4 +1,4 @@
-# 📊 Tabela FIPE Console
+#  Tabela FIPE Console
 
 Este é um projeto em Java com Spring Boot que permite consultar informações de **marcas**, **modelos** e **valores de veículos** (carros, motos e caminhões) diretamente pelo terminal, utilizando dados da **API pública da Tabela FIPE**.
 
@@ -6,7 +6,7 @@ O usuário interage pelo console, escolhendo o tipo de veículo, filtrando model
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Consulta de marcas disponíveis (carros, motos, caminhões)
 - Listagem de modelos por marca
@@ -15,7 +15,7 @@ O usuário interage pelo console, escolhendo o tipo de veículo, filtrando model
 
 ---
 
-## 🔧 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Java 17  
 - Spring Boot  
@@ -25,7 +25,7 @@ O usuário interage pelo console, escolhendo o tipo de veículo, filtrando model
 
 ---
 
-## 🔗 API utilizada
+##  API utilizada
 
 - [API Pública Tabela FIPE - Deivid Fortuna](https://deividfortuna.github.io/fipe/?ref=public_apis&utm_medium=website)
 
