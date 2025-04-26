@@ -1,4 +1,4 @@
-#  Tabela FIPE Console
+#  Tabela FIPE
 
 Este é um projeto em Java com Spring Boot que permite consultar informações de **marcas**, **modelos** e **valores de veículos** (carros, motos e caminhões) diretamente pelo terminal, utilizando dados da **API pública da Tabela FIPE**.
 
